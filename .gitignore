@@ -61,6 +61,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-projects/.next/*
-projects/node_modules/*
-projects/public/*
+project/.next/*
+project/node_modules/*
+project/public/*
