@@ -63,4 +63,3 @@ next-env.d.ts
 
 project/.next/*
 project/node_modules/*
-project/public/*
